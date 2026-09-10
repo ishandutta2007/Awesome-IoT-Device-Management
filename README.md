@@ -67,61 +67,61 @@ The open-source ecosystem provides robust self-hosted building blocks for comple
 
 The list below is sorted by **GitHub Star Count** in descending order:
 
-1. **[ThingsBoard](https://github.com/thingsboard/thingsboard)** [![GitHub stars](https://img.shields.io/github/stars/thingsboard/thingsboard?style=social&color=white)](https://github.com/thingsboard/thingsboard/stargazers)  
+1. **[ThingsBoard](https://github.com/thingsboard/thingsboard)** [![GitHub_Stars](https://img.shields.io/github/stars/thingsboard/thingsboard?style=social&color=white)](https://github.com/thingsboard/thingsboard/stargazers)  
    🏆 *The leading open-source IoT platform (Apache 2.0)* — Provides comprehensive device management, multi-tenancy, telemetry data collection, high-performance rule engine, and real-time visualization dashboards. Fully self-hostable via Docker/Kubernetes.
 
-2. **[EMQX](https://github.com/emqx/emqx)** [![GitHub stars](https://img.shields.io/github/stars/emqx/emqx?style=social&color=white)](https://github.com/emqx/emqx/stargazers)  
+2. **[EMQX](https://github.com/emqx/emqx)** [![GitHub_Stars](https://img.shields.io/github/stars/emqx/emqx?style=social&color=white)](https://github.com/emqx/emqx/stargazers)  
    ⚡ *High-performance distributed MQTT broker (Apache 2.0)* — Built on Erlang/OTP, capable of scaling to 100M+ concurrent IoT device connections with sub-millisecond latency and high-throughput data bridging to Kafka, PostgreSQL, and InfluxDB.
 
-3. **[Eclipse Mosquitto](https://github.com/eclipse-mosquitto/mosquitto)** [![GitHub stars](https://img.shields.io/github/stars/eclipse-mosquitto/mosquitto?style=social&color=white)](https://github.com/eclipse-mosquitto/mosquitto/stargazers)  
+3. **[Eclipse Mosquitto](https://github.com/eclipse-mosquitto/mosquitto)** [![GitHub_Stars](https://img.shields.io/github/stars/eclipse-mosquitto/mosquitto?style=social&color=white)](https://github.com/eclipse-mosquitto/mosquitto/stargazers)  
    🪶 *Lightweight open-source MQTT message broker (EPL-2.0 / EDL-1.0)* — The de-facto standard lightweight broker for embedded Linux boards, Raspberry Pi, home automation, and gateway-level protocol routing.
 
-4. **[KubeEdge](https://github.com/kubeedge/kubeedge)** [![GitHub stars](https://img.shields.io/github/stars/kubeedge/kubeedge?style=social&color=white)](https://github.com/kubeedge/kubeedge/stargazers)  
+4. **[KubeEdge](https://github.com/kubeedge/kubeedge)** [![GitHub_Stars](https://img.shields.io/github/stars/kubeedge/kubeedge?style=social&color=white)](https://github.com/kubeedge/kubeedge/stargazers)  
    ☸️ *Kubernetes-native edge computing framework (CNCF Incubating)* — Seamlessly extends cloud-native container orchestration and Kubernetes APIs to autonomous remote edge nodes and IoT peripherals via MQTT/EdgeMesh.
 
-5. **[Magistrala](https://github.com/absmach/magistrala)** [![GitHub stars](https://img.shields.io/github/stars/absmach/magistrala?style=social&color=white)](https://github.com/absmach/magistrala/stargazers)  
+5. **[Magistrala](https://github.com/absmach/magistrala)** [![GitHub_Stars](https://img.shields.io/github/stars/absmach/magistrala?style=social&color=white)](https://github.com/absmach/magistrala/stargazers)  
    🌐 *Modern Go-based multi-protocol IoT framework (formerly Mainflux, Apache 2.0)* — Supports multi-protocol connectivity (MQTT, HTTP, CoAP, WebSocket), fine-grained authorization, TLS mutual auth, and digital twin state modeling.
 
-6. **[ThingsBoard IoT Gateway](https://github.com/thingsboard/thingsboard-gateway)** [![GitHub stars](https://img.shields.io/github/stars/thingsboard/thingsboard-gateway?style=social&color=white)](https://github.com/thingsboard/thingsboard-gateway/stargazers)  
+6. **[ThingsBoard IoT Gateway](https://github.com/thingsboard/thingsboard-gateway)** [![GitHub_Stars](https://img.shields.io/github/stars/thingsboard/thingsboard-gateway?style=social&color=white)](https://github.com/thingsboard/thingsboard-gateway/stargazers)  
    🌉 *Industrial protocol connector and edge gateway* — Bridges legacy OT protocols including Modbus, CAN bus, BACnet, BLE, OPC-UA, and REST into modern MQTT/ThingsBoard instances.
 
-7. **[Baetyl](https://github.com/baetyl/baetyl)** [![GitHub stars](https://img.shields.io/github/stars/baetyl/baetyl?style=social&color=white)](https://github.com/baetyl/baetyl/stargazers)  
+7. **[Baetyl](https://github.com/baetyl/baetyl)** [![GitHub_Stars](https://img.shields.io/github/stars/baetyl/baetyl?style=social&color=white)](https://github.com/baetyl/baetyl/stargazers)  
    📦 *Linux Foundation edge computing and microservice runtime* — Extends cloud computing, message routing, edge application management, and containerized AI models seamlessly to resource-constrained devices.
 
-8. **[OpenRemote](https://github.com/openremote/openremote)** [![GitHub stars](https://img.shields.io/github/stars/openremote/openremote?style=social&color=white)](https://github.com/openremote/openremote/stargazers)  
+8. **[OpenRemote](https://github.com/openremote/openremote)** [![GitHub_Stars](https://img.shields.io/github/stars/openremote/openremote?style=social&color=white)](https://github.com/openremote/openremote/stargazers)  
    🏢 *100% open-source IoT platform for asset management and smart cities (AGPL-3.0)* — Features comprehensive asset modeling, flow-based rules, protocol agents (HTTP, MQTT, KNX, Modbus), and custom mobile/web frontends.
 
-9. **[SWUpdate](https://github.com/sbabic/swupdate)** [![GitHub stars](https://img.shields.io/github/stars/sbabic/swupdate?style=social&color=white)](https://github.com/sbabic/swupdate/stargazers)  
+9. **[SWUpdate](https://github.com/sbabic/swupdate)** [![GitHub_Stars](https://img.shields.io/github/stars/sbabic/swupdate?style=social&color=white)](https://github.com/sbabic/swupdate/stargazers)  
    🔄 *Embedded Linux software update framework (GPL-2.0)* — Highly reliable OTA updater supporting dual-copy (A/B) disk partitioning, encrypted artifacts, delta compression, and integration with Hawkbit and Suricatta servers.
 
-10. **[LF Edge eKuiper](https://github.com/lf-edge/ekuiper)** [![GitHub stars](https://img.shields.io/github/stars/lf-edge/ekuiper?style=social&color=white)](https://github.com/lf-edge/ekuiper/stargazers)  
+10. **[LF Edge eKuiper](https://github.com/lf-edge/ekuiper)** [![GitHub_Stars](https://img.shields.io/github/stars/lf-edge/ekuiper?style=social&color=white)](https://github.com/lf-edge/ekuiper/stargazers)  
     🌊 *Lightweight IoT edge stream processing and SQL engine (Apache 2.0)* — Runs on microcontrollers and Linux gateways with < 10MB memory footprint, performing real-time SQL stream analytics and AI inference at the edge.
 
-11. **[EdgeX Foundry](https://github.com/edgexfoundry/edgex-go)** [![GitHub stars](https://img.shields.io/github/stars/edgexfoundry/edgex-go?style=social&color=white)](https://github.com/edgexfoundry/edgex-go/stargazers)  
+11. **[EdgeX Foundry](https://github.com/edgexfoundry/edgex-go)** [![GitHub_Stars](https://img.shields.io/github/stars/edgexfoundry/edgex-go?style=social&color=white)](https://github.com/edgexfoundry/edgex-go/stargazers)  
     🏭 *Vendor-neutral industrial IoT edge middleware (Apache 2.0)* — Modular microservices architecture standardizing device abstraction, dual-direction data flows, edge computing, and sensor-to-cloud security.
 
-12. **[openBalena](https://github.com/balena-io/open-balena)** [![GitHub stars](https://img.shields.io/github/stars/balena-io/open-balena?style=social&color=white)](https://github.com/balena-io/open-balena/stargazers)  
+12. **[openBalena](https://github.com/balena-io/open-balena)** [![GitHub_Stars](https://img.shields.io/github/stars/balena-io/open-balena?style=social&color=white)](https://github.com/balena-io/open-balena/stargazers)  
     🐳 *Self-hosted open-source backend for balena device fleets (Apache 2.0)* — Deploy and manage fleets of containerized balenaOS devices, push updates via Git, and manage environment variables on your own servers.
 
-13. **[RAUC](https://github.com/rauc/rauc)** [![GitHub stars](https://img.shields.io/github/stars/rauc/rauc?style=social&color=white)](https://github.com/rauc/rauc/stargazers)  
+13. **[RAUC](https://github.com/rauc/rauc)** [![GitHub_Stars](https://img.shields.io/github/stars/rauc/rauc?style=social&color=white)](https://github.com/rauc/rauc/stargazers)  
     🛡️ *Safe and secure software update controller for embedded Linux (LGPL-2.1)* — Ensures robust A/B atomic firmware updates with cryptographic X.509 signature verification, fail-safe bootloader integration (U-Boot, Barebox, GRUB), and streaming installation.
 
-14. **[Mender Client](https://github.com/mendersoftware/mender)** [![GitHub stars](https://img.shields.io/github/stars/mendersoftware/mender?style=social&color=white)](https://github.com/mendersoftware/mender/stargazers)  
+14. **[Mender Client](https://github.com/mendersoftware/mender)** [![GitHub_Stars](https://img.shields.io/github/stars/mendersoftware/mender?style=social&color=white)](https://github.com/mendersoftware/mender/stargazers)  
     🚀 *Open-source OTA software update client for embedded Linux (Apache 2.0)* — Provides robust dual-rootfs rollbacks, application container updates, delta updates, and fleet deployment management.
 
-15. **[balenaOS (meta-balena)](https://github.com/balena-os/meta-balena)** [![GitHub stars](https://img.shields.io/github/stars/balena-os/meta-balena?style=social&color=white)](https://github.com/balena-os/meta-balena/stargazers)  
+15. **[balenaOS (meta-balena)](https://github.com/balena-os/meta-balena)** [![GitHub_Stars](https://img.shields.io/github/stars/balena-os/meta-balena?style=social&color=white)](https://github.com/balena-os/meta-balena/stargazers)  
     🐧 *Yocto Linux distribution tailored for running containers on edge devices* — Features atomic dual-rootfs rollbacks, balenaEngine (lightweight Docker alternative), and network-resilient provisioning.
 
-16. **[Eclipse Ditto](https://github.com/eclipse-ditto/ditto)** [![GitHub stars](https://img.shields.io/github/stars/eclipse-ditto/ditto?style=social&color=white)](https://github.com/eclipse-ditto/ditto/stargazers)  
+16. **[Eclipse Ditto](https://github.com/eclipse-ditto/ditto)** [![GitHub_Stars](https://img.shields.io/github/stars/eclipse-ditto/ditto?style=social&color=white)](https://github.com/eclipse-ditto/ditto/stargazers)  
     🪞 *Digital Twin framework for IoT (EPL-2.0)* — Provides a unified software representation of physical devices, state synchronization, access control, and bidirectional signaling between hardware and cloud.
 
-17. **[Eclipse Hono](https://github.com/eclipse-hono/hono)** [![GitHub stars](https://img.shields.io/github/stars/eclipse-hono/hono?style=social&color=white)](https://github.com/eclipse-hono/hono/stargazers)  
+17. **[Eclipse Hono](https://github.com/eclipse-hono/hono)** [![GitHub_Stars](https://img.shields.io/github/stars/eclipse-hono/hono?style=social&color=white)](https://github.com/eclipse-hono/hono/stargazers)  
     🔌 *Cloud-scale IoT device connectivity layer (EPL-2.0)* — Normalizes communication over HTTP, MQTT, AMQP, and CoAP into standard Kafka/AMQP endpoints independent of the underlying network protocol.
 
-18. **[DeviceHive](https://github.com/devicehive/devicehive-java-server)** [![GitHub stars](https://img.shields.io/github/stars/devicehive/devicehive-java-server?style=social&color=white)](https://github.com/devicehive/devicehive-java-server/stargazers)  
+18. **[DeviceHive](https://github.com/devicehive/devicehive-java-server)** [![GitHub_Stars](https://img.shields.io/github/stars/devicehive/devicehive-java-server?style=social&color=white)](https://github.com/devicehive/devicehive-java-server/stargazers)  
     🐝 *Microservice-based IoT data platform (Apache 2.0)* — Provides device registration, real-time message streaming over WebSockets/REST, and access control for smart hardware fleets.
 
-19. **[Eclipse Kapua](https://github.com/eclipse-kapua/kapua)** [![GitHub stars](https://img.shields.io/github/stars/eclipse-kapua/kapua?style=social&color=white)](https://github.com/eclipse-kapua/kapua/stargazers)  
+19. **[Eclipse Kapua](https://github.com/eclipse-kapua/kapua)** [![GitHub_Stars](https://img.shields.io/github/stars/eclipse-kapua/kapua?style=social&color=white)](https://github.com/eclipse-kapua/kapua/stargazers)  
     🧩 *Modular IoT integration platform and device registry (EPL-2.0)* — Manages device configurations, multi-tenant accounts, user permissions, and telemetry archiving under the Eclipse IoT ecosystem.
 
 ---
